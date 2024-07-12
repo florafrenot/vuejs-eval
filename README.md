@@ -43,15 +43,6 @@ Vous devrez pour cela respecter l'architecture du projet déjà mise en place (u
 
 L'API créé sera testée avec le plugin ThunderClient de VSCode, tel que vu en cours. Vous ajouterez une collection de routes et les échantillons de données nécessaires aux tests de votre API.
 
-### Objectif Bonus
-
-En **objectif bonus**, (et non obligatoire), vous pouvez terminer l'intégration de la vue du Dashboard en incluant un composant de graphique, ainsi que la liste des 10 derniers clients selon la capture d'écran ci-dessous.
-
-![Dashboard](./captures/Dashboard.jpg)
-
-**Des points bonus seront attribués aux stagiaires ayant complété les objectifs bonus.**
-
-### Rendu de l'exercice
 
 Pour rendre votre projet, vous devrez me donner accès au dépôt GIT du code de votre exercice finalisé, lien du dépôt à envoyer sur la plateforme Classroom.
 En dernier recours, vous pouvez également me faire parvenir une archive zip de votre projet sur cla plateforme classroom (¡¡¡ sans les `node_modules` !!! ), attention à bien mettre votre `nom-prenom.zip` comme nom de l'archive zip.
